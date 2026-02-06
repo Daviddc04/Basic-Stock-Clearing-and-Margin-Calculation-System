@@ -1,0 +1,12 @@
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/controller/AccountController.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/service/MarginService.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/dto/TradeRequestDTO.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/repository/AccountRepository.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/repository/TradeRepository.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/config/AsyncConfig.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/entity/Trade.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/entity/Account.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/config/CorsConfig.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/service/SimulationService.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/MarginClearingApplication.java
+/Users/davidcherry/JavaProjects/MarginCalculationandStockClearing/src/main/java/com/margin/clearing/controller/TradeController.java

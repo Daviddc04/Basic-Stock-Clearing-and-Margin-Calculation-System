@@ -1,0 +1,15 @@
+com/margin/clearing/dto/TradeRequestDTO.class
+com/margin/clearing/config/AsyncConfig.class
+com/margin/clearing/entity/Account.class
+com/margin/clearing/service/MarginService.class
+com/margin/clearing/repository/AccountRepository.class
+com/margin/clearing/service/SimulationService.class
+com/margin/clearing/entity/Trade.class
+com/margin/clearing/entity/Trade$TradeStatus.class
+com/margin/clearing/service/SimulationService$SimulationResult.class
+com/margin/clearing/config/CorsConfig.class
+com/margin/clearing/MarginClearingApplication.class
+com/margin/clearing/controller/AccountController.class
+com/margin/clearing/repository/TradeRepository.class
+com/margin/clearing/service/SimulationService$TradeRequest.class
+com/margin/clearing/controller/TradeController.class
