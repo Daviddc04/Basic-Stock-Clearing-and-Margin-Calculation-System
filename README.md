@@ -151,16 +151,6 @@ MarginCalculationandStockClearing/
 └── pom.xml
 ```
 
-## Resume Claims Validation
-
-| Resume Claim | Technical Evidence |
-|-------------|-------------------|
-| 1k+ Trade Simulation | `SimulationService.runSimulation()` processes 1,000 CompletableFutures |
-| Margin Validation | `MarginService.calculateMargin()` and `processTrade()` validate margin requirements |
-| Sub-350ms Response | Console logs show execution time using StopWatch, H2 + batch inserts |
-| RESTful APIs | Standard GET/POST endpoints in `TradeController` and `AccountController` |
-| React Frontend | Modern dashboard with `TradeTable` component displaying trade data |
-
 ## License
 
 This project is created for demonstration purposes.
